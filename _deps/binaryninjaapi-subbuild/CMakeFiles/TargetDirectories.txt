@@ -1,0 +1,3 @@
+/home/lxy/Desktop/binexport/binexport/build_linux/_deps/binaryninjaapi-subbuild/CMakeFiles/binaryninjaapi-populate.dir
+/home/lxy/Desktop/binexport/binexport/build_linux/_deps/binaryninjaapi-subbuild/CMakeFiles/edit_cache.dir
+/home/lxy/Desktop/binexport/binexport/build_linux/_deps/binaryninjaapi-subbuild/CMakeFiles/rebuild_cache.dir

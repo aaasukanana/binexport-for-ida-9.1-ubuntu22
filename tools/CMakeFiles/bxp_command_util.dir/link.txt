@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbxp_command_util.a CMakeFiles/bxp_command_util.dir/command_util.cc.o CMakeFiles/bxp_command_util.dir/__/version.cc.o
+/usr/bin/ranlib libbxp_command_util.a

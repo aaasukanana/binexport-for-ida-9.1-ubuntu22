@@ -1,0 +1,4 @@
+/home/lxy/Desktop/binexport/binexport/build_linux/binexport-prefix/bxp
+/home/lxy/Desktop/binexport/binexport/build_linux/binexport-prefix/binexport2dump
+/home/lxy/Desktop/binexport/binexport/build_linux/binexport-prefix/binexport12_ida64.so
+/home/lxy/Desktop/binexport/binexport/build_linux/binexport-prefix/binexport12_binaryninja.so

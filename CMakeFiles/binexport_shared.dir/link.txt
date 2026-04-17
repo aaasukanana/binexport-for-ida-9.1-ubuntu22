@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbinexport_shared.a CMakeFiles/binexport_shared.dir/binexport2.pb.cc.o CMakeFiles/binexport_shared.dir/binexport.cc.o CMakeFiles/binexport_shared.dir/util/filesystem.cc.o CMakeFiles/binexport_shared.dir/util/format.cc.o CMakeFiles/binexport_shared.dir/util/hash.cc.o CMakeFiles/binexport_shared.dir/util/idb_export.cc.o CMakeFiles/binexport_shared.dir/util/logging.cc.o CMakeFiles/binexport_shared.dir/util/process.cc.o
+/usr/bin/ranlib libbinexport_shared.a

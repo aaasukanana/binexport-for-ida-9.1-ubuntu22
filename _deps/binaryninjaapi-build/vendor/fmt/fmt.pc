@@ -1,0 +1,11 @@
+prefix=/home/lxy/Desktop/binexport/binexport/build_linux
+exec_prefix=/home/lxy/Desktop/binexport/binexport/build_linux
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: fmt
+Description: A modern formatting library
+Version: 11.0.2
+Libs: -L${libdir} -lfmt
+Cflags: -I${includedir}
+

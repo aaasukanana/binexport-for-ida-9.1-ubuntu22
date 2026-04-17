@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/lxy/Desktop/binexport/binexport/build_linux/_deps/binaryninjaapi-subbuild/CMakeFiles/binaryninjaapi-populate"
+		},
+		{
+			"file" : "/home/lxy/Desktop/binexport/binexport/build_linux/_deps/binaryninjaapi-subbuild/CMakeFiles/binaryninjaapi-populate.rule"
+		},
+		{
+			"file" : "/home/lxy/Desktop/binexport/binexport/build_linux/_deps/binaryninjaapi-subbuild/CMakeFiles/binaryninjaapi-populate-complete.rule"
+		},
+		{
+			"file" : "/home/lxy/Desktop/binexport/binexport/build_linux/_deps/binaryninjaapi-subbuild/binaryninjaapi-populate-prefix/src/binaryninjaapi-populate-stamp/binaryninjaapi-populate-build.rule"
+		},
+		{
+			"file" : "/home/lxy/Desktop/binexport/binexport/build_linux/_deps/binaryninjaapi-subbuild/binaryninjaapi-populate-prefix/src/binaryninjaapi-populate-stamp/binaryninjaapi-populate-configure.rule"
+		},
+		{
+			"file" : "/home/lxy/Desktop/binexport/binexport/build_linux/_deps/binaryninjaapi-subbuild/binaryninjaapi-populate-prefix/src/binaryninjaapi-populate-stamp/binaryninjaapi-populate-download.rule"
+		},
+		{
+			"file" : "/home/lxy/Desktop/binexport/binexport/build_linux/_deps/binaryninjaapi-subbuild/binaryninjaapi-populate-prefix/src/binaryninjaapi-populate-stamp/binaryninjaapi-populate-install.rule"
+		},
+		{
+			"file" : "/home/lxy/Desktop/binexport/binexport/build_linux/_deps/binaryninjaapi-subbuild/binaryninjaapi-populate-prefix/src/binaryninjaapi-populate-stamp/binaryninjaapi-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/lxy/Desktop/binexport/binexport/build_linux/_deps/binaryninjaapi-subbuild/binaryninjaapi-populate-prefix/src/binaryninjaapi-populate-stamp/binaryninjaapi-populate-patch.rule"
+		},
+		{
+			"file" : "/home/lxy/Desktop/binexport/binexport/build_linux/_deps/binaryninjaapi-subbuild/binaryninjaapi-populate-prefix/src/binaryninjaapi-populate-stamp/binaryninjaapi-populate-test.rule"
+		},
+		{
+			"file" : "/home/lxy/Desktop/binexport/binexport/build_linux/_deps/binaryninjaapi-subbuild/binaryninjaapi-populate-prefix/src/binaryninjaapi-populate-stamp/binaryninjaapi-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"binaryninjaapi-populate"
+		],
+		"name" : "binaryninjaapi-populate"
+	}
+}

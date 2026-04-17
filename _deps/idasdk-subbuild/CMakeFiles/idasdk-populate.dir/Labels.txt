@@ -1,0 +1,14 @@
+# Target labels
+ idasdk-populate
+# Source files and their labels
+/home/lxy/Desktop/binexport/binexport/build_linux/_deps/idasdk-subbuild/CMakeFiles/idasdk-populate
+/home/lxy/Desktop/binexport/binexport/build_linux/_deps/idasdk-subbuild/CMakeFiles/idasdk-populate.rule
+/home/lxy/Desktop/binexport/binexport/build_linux/_deps/idasdk-subbuild/CMakeFiles/idasdk-populate-complete.rule
+/home/lxy/Desktop/binexport/binexport/build_linux/_deps/idasdk-subbuild/idasdk-populate-prefix/src/idasdk-populate-stamp/idasdk-populate-build.rule
+/home/lxy/Desktop/binexport/binexport/build_linux/_deps/idasdk-subbuild/idasdk-populate-prefix/src/idasdk-populate-stamp/idasdk-populate-configure.rule
+/home/lxy/Desktop/binexport/binexport/build_linux/_deps/idasdk-subbuild/idasdk-populate-prefix/src/idasdk-populate-stamp/idasdk-populate-download.rule
+/home/lxy/Desktop/binexport/binexport/build_linux/_deps/idasdk-subbuild/idasdk-populate-prefix/src/idasdk-populate-stamp/idasdk-populate-install.rule
+/home/lxy/Desktop/binexport/binexport/build_linux/_deps/idasdk-subbuild/idasdk-populate-prefix/src/idasdk-populate-stamp/idasdk-populate-mkdir.rule
+/home/lxy/Desktop/binexport/binexport/build_linux/_deps/idasdk-subbuild/idasdk-populate-prefix/src/idasdk-populate-stamp/idasdk-populate-patch.rule
+/home/lxy/Desktop/binexport/binexport/build_linux/_deps/idasdk-subbuild/idasdk-populate-prefix/src/idasdk-populate-stamp/idasdk-populate-test.rule
+/home/lxy/Desktop/binexport/binexport/build_linux/_deps/idasdk-subbuild/idasdk-populate-prefix/src/idasdk-populate-stamp/idasdk-populate-update.rule

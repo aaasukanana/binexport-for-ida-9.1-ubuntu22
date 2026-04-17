@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG -shared -Wl,-gc-sections -Wl,-soname,libbinaryninjacore.so.1 -o libbinaryninjacore.so.1 CMakeFiles/binaryninjacore.dir/binaryninja/stubs/binaryninjacore_stable.cc.o

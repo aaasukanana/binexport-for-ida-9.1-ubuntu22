@@ -1,0 +1,3 @@
+/home/lxy/Desktop/binexport/binexport/build_linux/_deps/protobuf-subbuild/CMakeFiles/protobuf-populate.dir
+/home/lxy/Desktop/binexport/binexport/build_linux/_deps/protobuf-subbuild/CMakeFiles/edit_cache.dir
+/home/lxy/Desktop/binexport/binexport/build_linux/_deps/protobuf-subbuild/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,14 @@
+# Target labels
+ protobuf-populate
+# Source files and their labels
+/home/lxy/Desktop/binexport/binexport/build_linux/_deps/protobuf-subbuild/CMakeFiles/protobuf-populate
+/home/lxy/Desktop/binexport/binexport/build_linux/_deps/protobuf-subbuild/CMakeFiles/protobuf-populate.rule
+/home/lxy/Desktop/binexport/binexport/build_linux/_deps/protobuf-subbuild/CMakeFiles/protobuf-populate-complete.rule
+/home/lxy/Desktop/binexport/binexport/build_linux/_deps/protobuf-subbuild/protobuf-populate-prefix/src/protobuf-populate-stamp/protobuf-populate-build.rule
+/home/lxy/Desktop/binexport/binexport/build_linux/_deps/protobuf-subbuild/protobuf-populate-prefix/src/protobuf-populate-stamp/protobuf-populate-configure.rule
+/home/lxy/Desktop/binexport/binexport/build_linux/_deps/protobuf-subbuild/protobuf-populate-prefix/src/protobuf-populate-stamp/protobuf-populate-download.rule
+/home/lxy/Desktop/binexport/binexport/build_linux/_deps/protobuf-subbuild/protobuf-populate-prefix/src/protobuf-populate-stamp/protobuf-populate-install.rule
+/home/lxy/Desktop/binexport/binexport/build_linux/_deps/protobuf-subbuild/protobuf-populate-prefix/src/protobuf-populate-stamp/protobuf-populate-mkdir.rule
+/home/lxy/Desktop/binexport/binexport/build_linux/_deps/protobuf-subbuild/protobuf-populate-prefix/src/protobuf-populate-stamp/protobuf-populate-patch.rule
+/home/lxy/Desktop/binexport/binexport/build_linux/_deps/protobuf-subbuild/protobuf-populate-prefix/src/protobuf-populate-stamp/protobuf-populate-test.rule
+/home/lxy/Desktop/binexport/binexport/build_linux/_deps/protobuf-subbuild/protobuf-populate-prefix/src/protobuf-populate-stamp/protobuf-populate-update.rule

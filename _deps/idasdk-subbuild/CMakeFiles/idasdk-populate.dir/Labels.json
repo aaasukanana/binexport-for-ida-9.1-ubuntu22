@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/lxy/Desktop/binexport/binexport/build_linux/_deps/idasdk-subbuild/CMakeFiles/idasdk-populate"
+		},
+		{
+			"file" : "/home/lxy/Desktop/binexport/binexport/build_linux/_deps/idasdk-subbuild/CMakeFiles/idasdk-populate.rule"
+		},
+		{
+			"file" : "/home/lxy/Desktop/binexport/binexport/build_linux/_deps/idasdk-subbuild/CMakeFiles/idasdk-populate-complete.rule"
+		},
+		{
+			"file" : "/home/lxy/Desktop/binexport/binexport/build_linux/_deps/idasdk-subbuild/idasdk-populate-prefix/src/idasdk-populate-stamp/idasdk-populate-build.rule"
+		},
+		{
+			"file" : "/home/lxy/Desktop/binexport/binexport/build_linux/_deps/idasdk-subbuild/idasdk-populate-prefix/src/idasdk-populate-stamp/idasdk-populate-configure.rule"
+		},
+		{
+			"file" : "/home/lxy/Desktop/binexport/binexport/build_linux/_deps/idasdk-subbuild/idasdk-populate-prefix/src/idasdk-populate-stamp/idasdk-populate-download.rule"
+		},
+		{
+			"file" : "/home/lxy/Desktop/binexport/binexport/build_linux/_deps/idasdk-subbuild/idasdk-populate-prefix/src/idasdk-populate-stamp/idasdk-populate-install.rule"
+		},
+		{
+			"file" : "/home/lxy/Desktop/binexport/binexport/build_linux/_deps/idasdk-subbuild/idasdk-populate-prefix/src/idasdk-populate-stamp/idasdk-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/lxy/Desktop/binexport/binexport/build_linux/_deps/idasdk-subbuild/idasdk-populate-prefix/src/idasdk-populate-stamp/idasdk-populate-patch.rule"
+		},
+		{
+			"file" : "/home/lxy/Desktop/binexport/binexport/build_linux/_deps/idasdk-subbuild/idasdk-populate-prefix/src/idasdk-populate-stamp/idasdk-populate-test.rule"
+		},
+		{
+			"file" : "/home/lxy/Desktop/binexport/binexport/build_linux/_deps/idasdk-subbuild/idasdk-populate-prefix/src/idasdk-populate-stamp/idasdk-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"idasdk-populate"
+		],
+		"name" : "idasdk-populate"
+	}
+}

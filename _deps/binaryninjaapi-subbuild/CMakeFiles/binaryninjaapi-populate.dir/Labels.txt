@@ -1,0 +1,14 @@
+# Target labels
+ binaryninjaapi-populate
+# Source files and their labels
+/home/lxy/Desktop/binexport/binexport/build_linux/_deps/binaryninjaapi-subbuild/CMakeFiles/binaryninjaapi-populate
+/home/lxy/Desktop/binexport/binexport/build_linux/_deps/binaryninjaapi-subbuild/CMakeFiles/binaryninjaapi-populate.rule
+/home/lxy/Desktop/binexport/binexport/build_linux/_deps/binaryninjaapi-subbuild/CMakeFiles/binaryninjaapi-populate-complete.rule
+/home/lxy/Desktop/binexport/binexport/build_linux/_deps/binaryninjaapi-subbuild/binaryninjaapi-populate-prefix/src/binaryninjaapi-populate-stamp/binaryninjaapi-populate-build.rule
+/home/lxy/Desktop/binexport/binexport/build_linux/_deps/binaryninjaapi-subbuild/binaryninjaapi-populate-prefix/src/binaryninjaapi-populate-stamp/binaryninjaapi-populate-configure.rule
+/home/lxy/Desktop/binexport/binexport/build_linux/_deps/binaryninjaapi-subbuild/binaryninjaapi-populate-prefix/src/binaryninjaapi-populate-stamp/binaryninjaapi-populate-download.rule
+/home/lxy/Desktop/binexport/binexport/build_linux/_deps/binaryninjaapi-subbuild/binaryninjaapi-populate-prefix/src/binaryninjaapi-populate-stamp/binaryninjaapi-populate-install.rule
+/home/lxy/Desktop/binexport/binexport/build_linux/_deps/binaryninjaapi-subbuild/binaryninjaapi-populate-prefix/src/binaryninjaapi-populate-stamp/binaryninjaapi-populate-mkdir.rule
+/home/lxy/Desktop/binexport/binexport/build_linux/_deps/binaryninjaapi-subbuild/binaryninjaapi-populate-prefix/src/binaryninjaapi-populate-stamp/binaryninjaapi-populate-patch.rule
+/home/lxy/Desktop/binexport/binexport/build_linux/_deps/binaryninjaapi-subbuild/binaryninjaapi-populate-prefix/src/binaryninjaapi-populate-stamp/binaryninjaapi-populate-test.rule
+/home/lxy/Desktop/binexport/binexport/build_linux/_deps/binaryninjaapi-subbuild/binaryninjaapi-populate-prefix/src/binaryninjaapi-populate-stamp/binaryninjaapi-populate-update.rule

@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/lxy/Desktop/binexport/binexport/build_linux/_deps/absl-subbuild/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

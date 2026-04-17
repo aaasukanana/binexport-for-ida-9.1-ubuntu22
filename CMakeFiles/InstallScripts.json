@@ -1,0 +1,37 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/lxy/Desktop/binexport/binexport/build_linux/cmake_install.cmake",
+		"/home/lxy/Desktop/binexport/binexport/build_linux/_deps/absl-build/cmake_install.cmake",
+		"/home/lxy/Desktop/binexport/binexport/build_linux/_deps/absl-build/absl/cmake_install.cmake",
+		"/home/lxy/Desktop/binexport/binexport/build_linux/_deps/absl-build/absl/base/cmake_install.cmake",
+		"/home/lxy/Desktop/binexport/binexport/build_linux/_deps/absl-build/absl/algorithm/cmake_install.cmake",
+		"/home/lxy/Desktop/binexport/binexport/build_linux/_deps/absl-build/absl/cleanup/cmake_install.cmake",
+		"/home/lxy/Desktop/binexport/binexport/build_linux/_deps/absl-build/absl/container/cmake_install.cmake",
+		"/home/lxy/Desktop/binexport/binexport/build_linux/_deps/absl-build/absl/crc/cmake_install.cmake",
+		"/home/lxy/Desktop/binexport/binexport/build_linux/_deps/absl-build/absl/debugging/cmake_install.cmake",
+		"/home/lxy/Desktop/binexport/binexport/build_linux/_deps/absl-build/absl/flags/cmake_install.cmake",
+		"/home/lxy/Desktop/binexport/binexport/build_linux/_deps/absl-build/absl/functional/cmake_install.cmake",
+		"/home/lxy/Desktop/binexport/binexport/build_linux/_deps/absl-build/absl/hash/cmake_install.cmake",
+		"/home/lxy/Desktop/binexport/binexport/build_linux/_deps/absl-build/absl/log/cmake_install.cmake",
+		"/home/lxy/Desktop/binexport/binexport/build_linux/_deps/absl-build/absl/memory/cmake_install.cmake",
+		"/home/lxy/Desktop/binexport/binexport/build_linux/_deps/absl-build/absl/meta/cmake_install.cmake",
+		"/home/lxy/Desktop/binexport/binexport/build_linux/_deps/absl-build/absl/numeric/cmake_install.cmake",
+		"/home/lxy/Desktop/binexport/binexport/build_linux/_deps/absl-build/absl/profiling/cmake_install.cmake",
+		"/home/lxy/Desktop/binexport/binexport/build_linux/_deps/absl-build/absl/random/cmake_install.cmake",
+		"/home/lxy/Desktop/binexport/binexport/build_linux/_deps/absl-build/absl/status/cmake_install.cmake",
+		"/home/lxy/Desktop/binexport/binexport/build_linux/_deps/absl-build/absl/strings/cmake_install.cmake",
+		"/home/lxy/Desktop/binexport/binexport/build_linux/_deps/absl-build/absl/synchronization/cmake_install.cmake",
+		"/home/lxy/Desktop/binexport/binexport/build_linux/_deps/absl-build/absl/time/cmake_install.cmake",
+		"/home/lxy/Desktop/binexport/binexport/build_linux/_deps/absl-build/absl/types/cmake_install.cmake",
+		"/home/lxy/Desktop/binexport/binexport/build_linux/_deps/absl-build/absl/utility/cmake_install.cmake",
+		"/home/lxy/Desktop/binexport/binexport/build_linux/_deps/protobuf-build/cmake_install.cmake",
+		"/home/lxy/Desktop/binexport/binexport/build_linux/_deps/protobuf-build/third_party/utf8_range/cmake_install.cmake",
+		"/home/lxy/Desktop/binexport/binexport/build_linux/_deps/binaryninjaapi-build/cmake_install.cmake",
+		"/home/lxy/Desktop/binexport/binexport/build_linux/_deps/binaryninjaapi-build/vendor/fmt/cmake_install.cmake",
+		"/home/lxy/Desktop/binexport/binexport/build_linux/tools/cmake_install.cmake",
+		"/home/lxy/Desktop/binexport/binexport/build_linux/ida/cmake_install.cmake",
+		"/home/lxy/Desktop/binexport/binexport/build_linux/binaryninja/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

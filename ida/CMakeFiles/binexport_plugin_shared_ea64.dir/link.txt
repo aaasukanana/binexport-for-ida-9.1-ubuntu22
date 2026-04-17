@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbinexport_plugin_shared_ea64.a CMakeFiles/binexport_plugin_shared_ea64.dir/digest.cc.o CMakeFiles/binexport_plugin_shared_ea64.dir/flow_analysis.cc.o CMakeFiles/binexport_plugin_shared_ea64.dir/log_sink.cc.o CMakeFiles/binexport_plugin_shared_ea64.dir/names.cc.o CMakeFiles/binexport_plugin_shared_ea64.dir/ui.cc.o CMakeFiles/binexport_plugin_shared_ea64.dir/util.cc.o
+/usr/bin/ranlib libbinexport_plugin_shared_ea64.a

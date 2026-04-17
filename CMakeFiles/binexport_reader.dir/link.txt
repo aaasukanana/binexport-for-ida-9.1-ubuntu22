@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbinexport_reader.a CMakeFiles/binexport_reader.dir/reader/call_graph.cc.o CMakeFiles/binexport_reader.dir/reader/flow_graph.cc.o CMakeFiles/binexport_reader.dir/reader/instruction.cc.o
+/usr/bin/ranlib libbinexport_reader.a
